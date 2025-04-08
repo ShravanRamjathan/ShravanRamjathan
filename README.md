@@ -1,10 +1,11 @@
+# My GitHub Profile
 - 👋 Hi, I’m @ShravanRamjathan
 - 👀 I’m interested in Gaming, working out, and oh yeah...code.
 - 🌱 I’m currently learning Android development with Jetpack compose and some Arduino(C++)
 - 💞️ I’m looking to collaborate on Game development as well as Web-Development
 - 📫 How to reach me: shravanramjathan@gmail.com  
 - ⚡ Fun fact: Im currently working on a Hydroponic system involving AI and IoT Sensors :)
-# My GitHub Profile
+- College github: @ST10247982
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">

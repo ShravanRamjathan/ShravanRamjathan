@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game development as well as Web-Development
 - 📫 How to reach me: shravanramjathan@gmail.com  
 - ⚡ Fun fact: Im currently working on a Hydroponic system involving AI and IoT Sensors :)
- 🛠️: Languages, Frameworks and Tools
+ ### 🛠️: Languages, Frameworks and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />

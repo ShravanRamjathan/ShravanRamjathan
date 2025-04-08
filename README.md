@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Game development as well as Web-Development
 - 📫 How to reach me: shravanramjathan@gmail.com  
 - ⚡ Fun fact: Im currently working on a Hydroponic system involving AI and IoT Sensors :)
-[Visit my GitHub Profile](https://github.com/st10247982)
+- Visit my college account to see more projects [@ST10247982](https://github.com/st10247982)
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40" />

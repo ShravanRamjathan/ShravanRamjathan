@@ -26,3 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="40" />
 </p>
+
+[!Shravan's GitHub stats](https://github-reame-stats.vercel.app/api?username=ShravanRamjathan private=true&show icons=true&theme=redical&hide rank=false)]
+(https://github.com/anuraghazra/github-readme-stats)

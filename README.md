@@ -26,5 +26,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="40" />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravanRamjathan&show_icons=true&theme=radical)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Shravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shravan)](https://github.com/anuraghazra/github-readme-stats)

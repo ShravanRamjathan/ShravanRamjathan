@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Deep Learning, Agentic AI, Native Development<br>👯 I’m looking to collaborate on: .NET, Kotlin, Java, Backend Dev<br>⚡ Fun fact, I started coding at the age of 15
+🔭 I’m currently working on: Deep Learning, Native Development<br>👯 I’m looking to collaborate on: .NET, Kotlin, Java, Backend Dev<br>⚡ Fun fact, I started coding at the age of 15
 
 
 ## 🌐 Socials:
